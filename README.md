@@ -18,16 +18,20 @@
 **Aqui se presenta una demo de nuestro sitio web**
 
 **Interfaz principal del sitio**
-<img width="556" height="500" alt="image" src="https://github.com/user-attachments/assets/c9ef2170-fe03-420f-8914-1d31cf602e2a" />
+
+<img width="326" height="500" alt="image" src="https://github.com/user-attachments/assets/c9ef2170-fe03-420f-8914-1d31cf602e2a" />
 
 **Interfaz de la IA**
-<img width="522" height="500" alt="image" src="https://github.com/user-attachments/assets/f708579e-db5a-48d5-8ebe-e7fe241a885e" />
+
+<img width="326" height="500" alt="image" src="https://github.com/user-attachments/assets/f708579e-db5a-48d5-8ebe-e7fe241a885e" />
 
 **Interfaz del seleccionado de receta**
+
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/75bb3c81-eef2-4fd2-b869-406f809b6c1a" />
 
 **Interfaz de la receta seleccionada**
-<img width="506" height="500" alt="image" src="https://github.com/user-attachments/assets/642984ff-0044-4f86-85ea-4b14cc522fb3" />
+
+<img width="326" height="500" alt="image" src="https://github.com/user-attachments/assets/642984ff-0044-4f86-85ea-4b14cc522fb3" />
 
 ### ¿Por que se creo este sitio web?
 ###### El sitio web tiene el proposito de contribuir en el aprendizaje culinario, para usuarios interesando en aprender o quienes desean probar algo nuevo en su dia a dia. Esta viene integrada con un Inteligencia Artificial enfocada en el area culinaria que orientada a los usuarios en el manejo de ingredientes, recomendaciones y sugerencias para el desarrollo de un platillo. 
