@@ -16,8 +16,10 @@
 
 ### DEMO 
 **Aqui se presenta una demo de nuestro sitio web**
+**Puedes ver el diseño del prototipo en el siguiente enlace**
 
 **Interfaz principal del sitio**
+[Ver maqueta en Figma] (https://www.figma.com/design/79sBSbSuYoT784pzGpxnrt/P%C3%A1gina-Web-de-Tecnolog%C3%ADa--Community-?node-id=0-1&p=f&t=vywV0sOu0qw4JyQR-0)
 
 <img width="326" height="500" alt="image" src="https://github.com/user-attachments/assets/c9ef2170-fe03-420f-8914-1d31cf602e2a" />
 
